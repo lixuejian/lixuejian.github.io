@@ -24,6 +24,3 @@ type: page
 * email：smilelixuejian@163.com
 * [知乎](https://www.zhihu.com/people/smilelixuejian)
 
-## Comments
-
-{% include comments.html %}
