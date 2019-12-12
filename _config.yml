@@ -7,7 +7,7 @@
 
 # Site settings
 title: 李学健的技术专栏
-brief-intro: Deep Learning
+brief-intro: Only know a little
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lixuejian.github.io" # the base hostname & protocol for your site
 
