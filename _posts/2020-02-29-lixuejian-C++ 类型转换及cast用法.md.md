@@ -6,6 +6,8 @@ tags:  cast
 author: 李学健
 ---
 
+* content
+{:toc}
 ## C++ 类型转换及cast用法
 C++类型转换分为：
 
